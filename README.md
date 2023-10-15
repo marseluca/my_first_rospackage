@@ -11,6 +11,3 @@ This is my first ROS package for the Robotics Lab course 22/23
 <code>target_link_libraries(${PROJECT_NAME}_node_subscriber
     ${catkin_LIBRARIES}
   )</code>
-
-<h2>Execution</h2>
-![Alt text](https://github.com/marseluca/my_first_rospackage/blob/main/photo_2023-10-15_20-46-48.jpg)
