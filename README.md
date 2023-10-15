@@ -1,5 +1,3 @@
-This is my first ROS package for the Robotics Lab course 22/23
-
 <h2>Creating the subscriber</h2>
 <ol>
   <li>I created the node "my_package_node_subscriber.cpp"</li>
